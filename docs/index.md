@@ -1,12 +1,8 @@
----
-layout: default
----
-
 # Drilling: identifying groups and their topics of interest
 
-- based on large scale social media mining
-- using network analysis and text mining
-- results delivered as visual presentations, detailed spreadsheets, json, methodological report, executive summary.
+- large scale social media mining
+- based on original research
+- results delivered in multiple formats (viz, spreadsheets, json, etc.)
 
 ![exemple](./images/viz.jpg)
 
