@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Drilling: identifying groups and their topics of interest
 
 - large scale social media mining
