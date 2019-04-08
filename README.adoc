@@ -1,0 +1,12 @@
+= Website for Explore Your Data - a data analysis consultancy
+Author <analysis@exploreyourdata>
+2019-04-08
+
+last modified: {docdate}
+
+:icons!:
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+
+Contact email: analysis@exploreyourdata.com
