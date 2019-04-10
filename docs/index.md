@@ -4,11 +4,15 @@ layout: default
 
 # Drilling: identifying groups and their topics of interest
 
-- large scale social media mining
-- based on original research
-- results delivered in multiple formats (viz, spreadsheets, json, etc.)
+Based on a new method and large scale social media mining by Clement Levallois et al.
 
-![exemple](./images/viz.jpg)
+Accurate on any topic and any language.
 
-*Contact for a demo: analysis@exploreyourdata.com*
+<p align="center">
+![a real network](./images/viz.png)
+</p>
+
+The results of the drilling are delivered in visual and tabular formats.
+
+*Inquiries: analysis@exploreyourdata.com* or @seinecle
 
