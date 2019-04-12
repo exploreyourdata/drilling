@@ -4,7 +4,7 @@ layout: default
 
 Basé sur une nouvelle méthode de data mining sur Twitter, par Clement Levallois et al.
 
-Précision très fine, multilangue, applicable à tous sujets. Les résultats sont présentés sous forme visuelle et tabulaire (Excel), autres formats envisageables (json). 
+Précision très fine, multilingue, applicable à tous sujets. Les résultats sont présentés sous forme visuelle et tabulaire (Excel), autres formats envisageables (json). 
 
 Cas d'usages:
 
